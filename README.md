@@ -30,7 +30,7 @@ I am a detailed-oriented cybersecurity enthusiast transitioning into the Securit
 
 ###  Featured Repositories
 - [View my badge](badges/jasperbadge.md)
-  
+  [view certs](Introduction_to_Cybersecurity_certificate_j85540126-gmail-com_7a611475-5f0b-45c6-a002-9d4be451878d.pdf)
 
 ---
 
