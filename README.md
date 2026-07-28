@@ -29,7 +29,8 @@ I am a detailed-oriented cybersecurity enthusiast transitioning into the Securit
 ---
 
 ###  Featured Repositories
-- [![badge](badge2.jpg)](jasperbadge.md)
+- [View my badge](badges/jasperbadge.md)
+  
 
 ---
 
