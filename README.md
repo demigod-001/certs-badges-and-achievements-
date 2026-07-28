@@ -29,7 +29,7 @@ I am a detailed-oriented cybersecurity enthusiast transitioning into the Securit
 ---
 
 ###  Featured Repositories
-- [text](badge)](jasperbadge.md) 
+- [text](badge)] (jasperbadge.md) 
 ---
 
 📫 **Connect with me) | [Email(j85540126@gmail.com)
