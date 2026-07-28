@@ -34,4 +34,4 @@ I am a detailed-oriented cybersecurity enthusiast transitioning into the Securit
 
 ---
 
-📫 **Connect with me) | [Email](j85540126@gmail.com)
+📫 **Connect with me) | [Email(j85540126@gmail.com)
