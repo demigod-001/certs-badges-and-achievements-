@@ -29,9 +29,7 @@ I am a detailed-oriented cybersecurity enthusiast transitioning into the Securit
 ---
 
 ### 📌 Featured Repositories
-- [TryHackMe SOC Labs](./) - Detailed write-ups and key takeaways from SOC learning paths.
-- [Network Analysis & Labs](./) - Hands-on packet analysis and network topology configurations.
-
+- [badge](jasperbadge.md)
 ---
 
 📫 **Connect with me) | [Email(j85540126@gmail.com)
